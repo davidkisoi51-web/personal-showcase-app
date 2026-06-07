@@ -1,21 +1,17 @@
-# E-Commerce Admin Portal & Project Showcase
+# ☕ The Coffee Curator Portal
 
-A Single Page Application (SPA) designed as an administrative dashboard for an e-commerce platform. Built with React, Vite, and React Router.
+An avant-garde, art museum-inspired administrative interface designed for tracking artisanal coffee inventories, managing catalog metadata, and curating product exhibits.
 
-## 🚀 Features Implemented
-- **Dynamic Routing**: Managed cleanly across system modules using `react-router-dom`.
-- **State Engine Hooking**: Decoupled database read-writes using a specialized `useApi` custom hook pointing towards active LocalStorage synchronization layers.
-- **Dynamic Content Search**: Instant layout filtering across multiple properties (Name, Origin).
-- **Ref Injected Updates**: Utilizing `useRef` directly on targeted DOM nodes to extract updated inline fields securely without unneeded renders.
+## 🏛️ Live Deployment
+Experience the live application here: **[Deploy Link Name](INSERT_YOUR_LIVE_NETLIFY_OR_GITHUB_URL_HERE)**
 
-## 🛠️ Setup Instructions
+## 🚀 Architectural Features
+* **Dynamic Search Framework:** Instantly filter exhibits across product names and geographic origins.
+* **Full CRUD Pipeline:** Architected with local storage persistence supporting item creation, price updates, and deletion.
+* **Asymmetric Structural UI:** Crafted with a collapsible minimalist sidebar navigation drawer that gracefully downscales to a responsive layout on mobile screens.
 
-1. **Clone & Install Dependencies**
-   ```bash
-   git clone <your-repository-url>
-   cd ecommerce-admin-portal
-   npm install
-
-   2.**Deployed site**
-      
-      
+## 🛠️ Engineering Tech Stack
+* **Core:** React 18, Vite
+* **Routing:** React Router v6
+* **Database Mocking:** Custom React API State Hooks paired with `localStorage`
+* **Test Automation Suite:** Vitest + React Testing Library + JSDOM
