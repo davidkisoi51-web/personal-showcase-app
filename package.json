@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/davidkisoi51-web/personal-showcase-app",
+ "homepage": "https://davidkisoi51-web.github.io/personal-showcase-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
