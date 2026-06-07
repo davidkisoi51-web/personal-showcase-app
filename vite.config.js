@@ -7,6 +7,7 @@ export default defineConfig({
   test: {
     globals: true,
     environment: 'jsdom',
+    base: '/personal-showcase-app/'
     //setupFiles: './src/setupTests.js', // Optional: if you have global test setups
   },
 })
