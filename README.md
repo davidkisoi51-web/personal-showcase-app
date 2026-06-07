@@ -3,7 +3,7 @@
 An avant-garde, art museum-inspired administrative interface designed for tracking artisanal coffee inventories, managing catalog metadata, and curating product exhibits.
 
 ## 🏛️ Live Deployment
-Experience the live application here: **[Deploy Link Name](INSERT_YOUR_LIVE_NETLIFY_OR_GITHUB_URL_HERE)**
+Experience the live application here: **[Deploy Link Name]((https://davidkisoi51-web.github.io/personal-showcase-app))**
 
 ## 🚀 Architectural Features
 * **Dynamic Search Framework:** Instantly filter exhibits across product names and geographic origins.
